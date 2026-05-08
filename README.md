@@ -38,7 +38,9 @@ Solves the generated maze visually
    - Random module (maze generation logic)
      
 📸 Preview
+
    Creating Maze
+   
 <img width="1062" height="736" alt="image" src="https://github.com/user-attachments/assets/349637a4-2d64-4460-862d-c2bb4d02b02a" />
 
    Finding Path
