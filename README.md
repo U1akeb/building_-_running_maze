@@ -46,6 +46,10 @@ Solves the generated maze visually
    Finding Path
 <img width="1062" height="736" alt="image" src="https://github.com/user-attachments/assets/a6912df9-467e-42f0-a1bb-5788e94c0f9e" />
 
+   Path found
+<img width="1062" height="736" alt="image" src="https://github.com/user-attachments/assets/d84d13ee-8d22-44b5-afca-0066daae5ad9" />
+
+
 
  
  📁 Project Structure
