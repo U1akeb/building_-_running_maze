@@ -70,12 +70,3 @@ is the main program file with all the logic and programs
 README.md
 
 the explanation for the project
-
-I can help you next with:
-
-* 🎥 Adding a **GIF demo to README**
-* 🧠 Adding **A* shortest path solver**
-* 🧩 Turning it into a **game with player movement**
-* 🌐 Packaging it for **PyPI or executable (.exe)**
-
-Just tell me 👍
