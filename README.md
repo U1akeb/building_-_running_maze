@@ -1,3 +1,6 @@
+Video demo
+https://www.loom.com/share/5092475e6991432a8bd508a886a63609
+
 🧩 Maze Builder & Runner
 A Python GUI application that generates mazes based in the given Rown and Column inputs from the user and visually solves them step-by-step using a depth-first search backtracking algorithm.
 it is built with Tkinter, this project demonstrates maze generation, pathfinding and real-time visualization.
@@ -76,5 +79,4 @@ README.md
 the explanation for the project
 
 
-Video demo
-https://www.loom.com/share/5092475e6991432a8bd508a886a63609
+
